@@ -12,7 +12,7 @@ config :couchdb_auth,
   auth_type:        :oauth,
 
   ### :basic_auth, :cookie_auth
-  # Allowed API entry points depends to right of user, used in transactions
+  # Username and password
   username:         "admin",
   password:         "supersecret",
 
