@@ -38,7 +38,7 @@ To send authorized request to db server(default port 5984) use next:
 
 CouchDB.client |> CouchDB.get('/\_session')
 
-or to send request to backend server(default port 5984):
+or to send request to backend server(default port 5986):
 
 CouchDB.client(:backend) |> CouchDB.get("/\_session")
 
