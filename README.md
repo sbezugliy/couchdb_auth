@@ -44,4 +44,4 @@ CouchDB.client(:backend) |> CouchDB.get("/\_session")
 
 About configuring OAuth, you can read this:
 
-http://www.testenv.top/2017/06/configuring-oauth-10-authentication.html
+https://develixir.blogspot.com/2017/06/configuring-oauth-10-authentication.html
